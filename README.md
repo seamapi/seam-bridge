@@ -5,8 +5,18 @@ With Seam Bridge, enjoy the stability of an on-premises access system, while als
 
 For more information, see the [Seam Bridge docs](https://docs.seam.co/latest/capability-guides/seam-bridge).
 
+### Downloads
+
 By accessing or using Seam Bridge, you agree to the terms of the [Seam Software License Agreement](https://www.seam.co/legal/seam-end-user-license-agreement).
 
 - [Download Seam Bridge for Windows](https://github.com/seamapi/seam-bridge/releases/latest/download/SeamBridge.exe)
 - [Download Seam Bridge for macOS](https://github.com/seamapi/seam-bridge/releases/latest/download/SeamBridge.app.zip)
 - [Download Seam Bridge for Linux](https://github.com/seamapi/seam-bridge/releases/latest/download/seambridge)
+
+### Installation Guides
+
+Need help installing Seam Bridge? Use the platform-specific guides:
+
+- [Windows installation guide](https://docs.seam.co/latest/capability-guides/seam-bridge/seam-bridge-setup-for-windows)
+- [macOS installation guide](https://docs.seam.co/latest/capability-guides/seam-bridge/seam-bridge-setup-for-macos)
+- [Linux installation guide](https://docs.seam.co/latest/capability-guides/seam-bridge/seam-bridge-setup-for-linux)
